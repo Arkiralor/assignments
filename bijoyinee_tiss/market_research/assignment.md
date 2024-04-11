@@ -28,7 +28,7 @@ __Total *5* case studies.__
     5. Agri Bolo
         - https://agribolo.com/
     6. Trringo
-        - https://in.linkedin.com/company/trringo _(Their [website](www.trringo.com) is currently broken; cloudflare issue.)_
+        - https://in.linkedin.com/company/trringo _(Their [website](https://www.trringo.com) is currently broken; cloudflare issue.)_
 
 3. Digital Agriculture
     1. KrishiHub
