@@ -13,17 +13,17 @@ Founded in 2018, Fasal aims to "_...empower farmers by solving for guesswork in 
 
 ## Problem Statement
 
-Farming, foremost is a game of guesswork, based on experience and generational intelligence. The output and performance of the farm depends on both: the macro-environment of the region the farm is located in as well as the nicro-ecology of the farm...it's soil composition, prcipitation, moisture content of the soil, air, the ambient temperature, how the mere presence of the land affects the climate directly surrounding it, _et cetera_.
+Farming, foremost is a game of guesswork, based on experience and generational intelligence. The output and performance of the farm depend on both: the macro-environment of the region the farm is located in as well as the micro-ecology of the farm... its soil composition, precipitation, moisture content of the soil, air, the ambient temperature, how the mere presence of the land affects the climate directly surrounding it, _et cetera_.
 
-With so many factors to keep track of, most farmers, especially in nations like India, rely on generational knowlege passed down from ages past, earned through the hard tribulations of _trial-and-error_, to estimate what approaches would work on the land that they work on: what crops to plant and when, how much manure/fertilizer to use, when and how much to water their crops, when to harvest. 
+With so many factors to keep track of, most farmers, especially in nations like India, rely on generational knowledge passed down from ages past, earned through the hard tribulations of _trial-and-error_, to estimate what approaches would work on the land that they work on: what crops to plant and when, how much manure/fertilizer to use, when and how much to water their crops, when to harvest. 
 
-The problem with this approach is that since the industrial revolution some odd 200-_ish_ years ago, the macro-ecologies of the planet have been changing at an alarmingly increasing pace, what was solid advice maybe less than 25 years ago, would hold no water today. The waether patterns across the globe, which were way too chaotic to predict with 100% confidence any way have become even more so with freak weather incidents becoming the norm.
+The problem with this approach is that since the industrial revolution some odd 200-_ish_ years ago, the macro-ecologies of the planet have been changing at an alarmingly increasing pace, what was solid advice maybe less than 25 years ago, would hold no water today. The weather patterns across the globe, which were way too chaotic to predict with 100% confidence any way have become even more so with freak weather incidents becoming the norm.
 
 With all of this chaos spewing undecidable factors around, it has become near impossible to accurately gauge the output/performance of the farm that one may find themselves working on.
 
 ## Solutions Offered
 
-Fasal aims to rectify or at least mitigate this situation by collating as much information from the farm itself as possible and then running their own proprietary algorithms, based on proven crop-science, to give out customised advice and options to their clients. By determining as many indeoendent factors and then consolidating that information into a working model, Fasal's clients are able to mitigate much of the guesswork out of their sowing and harvest, increasing and regularising their yeild, as well as their income.
+Fasal aims to rectify or at least mitigate this situation by collating as much information from the farm itself as possible and then running their proprietary algorithms, based on proven crop science, to give out customised advice and options to their clients. By determining as many independent factors and then consolidating that information into a working model, Fasal's clients can mitigate much of the guesswork out of their sowing and harvest, increasing and regularising their yield, as well as their income.
 
 ### Services Offered
 
@@ -37,9 +37,9 @@ Fasal aims to rectify or at least mitigate this situation by collating as much i
 1. Participating farmers in 13+ states with direct intervention with more than 75'000 acres of cultivated land, producing more than 15 varieties of crops.[^1]
 2. Reduced the wastage of agrarian water by over 82.8 Billion litres of water.[^1]
 3. Reduced the usage of pesticides by around 127'426kg, improving the ecology in and around all participating farms.[^1]
-4. Fasal Fresh, the B2B sales platform, has procurred sustainably grown, traceable, and high-quality produce. The technology platform boasts a traceable supply of over US$ 500'000'000 worth of produce.[^1]
-5. The alaytics engine has saved each participating farmer between 18% and 13% costs in pest-control solutions.[^1]
-6. An average of 30% increase in yeild for all participating farms, increasing revenue for all stakeholders.[^1]
+4. Fasal Fresh, the B2B sales platform, has procured sustainably grown, traceable, and high-quality produce. The technology platform boasts a traceable supply of over US$ 500'000'000 worth of produce.[^1]
+5. The analytics engine has saved each participating farmer between 18% and 13% of costs in pest-control solutions.[^1]
+6. An average of 30% increase in yield for all participating farms, increasing revenue for all stakeholders.[^1]
 
 ### Patents Obtained
 
@@ -52,9 +52,9 @@ __Patent 2:__ Fasal's second patent focuses on a device that measures atmospheri
 
 ## Afterword
 
-Fasal provides an ever-increasingly necessary deliverable for farmers in the 21<sup>st</sup> century i.e., information. Any person who plans on conducting any sort of important transaction, requires proper intelligence to base their decision on. 
+Fasal provides an ever-increasingly necessary deliverable for farmers in the 21<sup>st</sup> century i.e., information. Any person who plans on conducting any sort of important transaction requires proper intelligence to base their decision on. 
 
-Based on their performance metrics, as displayed on their own company-profile, it is safe to assume that while their approach works as intended and they are constantly improving their methodologies and adding to their repertoire, this service is solely for the agri-workers in the upper segments of the income range. Afterall, developing and continuously improving an AI model does not come cheap, even at this kind of scale. 
+Based on their performance metrics, as displayed on their own company profile, it is safe to assume that while their approach works as intended and they are constantly improving their methodologies and adding to their repertoire, this service is solely for the agri-workers in the upper segments of the income range. After all, developing and continuously improving an AI model does not come cheap, even at this kind of scale. 
 
 If their aim is to trully make a diffrence in the scale that they proclaim to want to, the business model also needs to include more monetarily approcheable solutions for asipiring stakeholders with lower budgets.
 
