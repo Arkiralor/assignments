@@ -1,5 +1,6 @@
 # Gramophone
 
+"We are on a Mission to transform the Agriculture in India"
 
 ## Overview
 Gramophone is a end-to-end, data-driven support network for farmers. It was founded in 2016, with an initial goal of _helping_ farmers. In the initial phases, it simply provided a cloud-market for farmers but has now expanded to multiple roles in the agricultural sector, focusing on prividing agricultural workers with any and all feasible assistance that they can.
