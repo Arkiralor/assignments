@@ -17,7 +17,7 @@ Farming equipment is costly. Even in countries/regions with substantially higher
 
 This creates a viscious cycle where one would need to possess proper equipment to increase their production per unit of currency/time spent, but lacks the finances which require them to increase their production per unit of currency/time spent. I am sure the reader can see how this would pose a problem.
 
-Although farm-equipment rental existed in India since the advent of industrilized farming, most of it was conducted through grey-channels and hard saw any legislative oversight, leading to many instances of exploitation of small and medium scale farmers. This led many to forgo proper mechanization of their farms, essentially still following practices and using equipment dateing back to the medieval era.
+Although farm-equipment rental existed in India since the advent of industrilized farming, most of it was conducted through grey-channels and hardly saw any legislative oversight, leading to many instances of exploitation of small and medium scale farmers. This led many to forgo proper mechanization of their farms, essentially still following practices and using equipment dateing back to the medieval era.
 
 ## Solutions Offered
 
