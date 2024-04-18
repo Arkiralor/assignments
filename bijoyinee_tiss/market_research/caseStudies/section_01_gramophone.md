@@ -4,6 +4,21 @@
 ## Overview
 Gramophone is a end-to-end, data-driven support network for farmers. It was founded in 2016, with an initial goal of _helping_ farmers. In the initial phases, it simply provided a cloud-market for farmers but has now expanded to multiple roles in the agricultural sector, focusing on prividing agricultural workers with any and all feasible assistance that they can.
 
+## Problem Statement
+
+One of the most pressing problems that plague indian agri-workers is the lack of resources and intel that most commercial and industrial agricultural firms have access to. 
+This means that most farmers here, most of whom are independent, cottage-industry-scale producers face an even harder time to balance the economies of scale and quality for their produce.
+
+For a country that is still largely aggrarian-based and which aims to be completely self-sufficient in the case of food production, this serves as a severe handicap to the production of produce, especially as the population keeps increasing and faming needs to become more intensive to keep up with the demand.
+
+This not only to the soil, with its nutrient level decreasing every cycle...but also pressures the farmer into taking steps that may not be suitable to them in the long term.
+
+## Solutions Offered
+
+Gramaphone offered a solution to the issue by not just offering generic farming intel and resources, but by collating and using data, provided by individual farmers, to provide each and every farm with _custom_ intelligence and advice.
+
+They use the data and information provided by the farmers themselves to tailor the assistance provided to suit the individual use-cases for each participating farm.
+
 Currently, they provide the following services, as described on their masthead:
 
 1. __Gram Salah:__ _Real-time Solutions by Our Agronomy Experts for Farmers_
@@ -22,10 +37,30 @@ Currently, they provide the following services, as described on their masthead:
 
     This service provides the agri-workers with in-depth reports about the soil and its composition in their farms, allowing them to better prepare and plan for upcoming planting and harvesting sessions. This allows the farmer to preserve the nutritional content of the farm as well as to prolong the usage of the farm, mitigating the usage of fallow seasons for nutrient replenishment.
 
-## Problem Statement
+## Results Obtained
 
-One of the most pressing problems that plague indian agri-workers is the lack of resources and intel that most commercial and industrial agricultural firms have access to. 
-This means that most farmers here, most of whom are independent, cottage-industry-scale producers face an even harder time to balance the economies of scale and quality for their produce.
+1. Since its founding in 2016, over 2 million farmers have joined the platform spread across 50'000 villages, with 67% of all participants being repeat clients.[^1]
+2. Gramophone has connected a total of 4'000 listed buyers to the farmers on its network, and the platform currently sits at 500'000 orders served and 40'000 total listings across its various services. [^2]
+3. Currently it has facilitated over 6'000 micro-entrepreneurs launch their initiatives. [^2]
+4. Gramophone has so far generated over Rs. 100'000'000 in income for its participants. [^3]
+5. They have performed over 10'000 soil tests, with over 430'000 acres of active farm land affected by their proposed organic and sustanaible farming practices. [^3]
 
-## Solutions Offered
+## Afterword and Possible Future Scope
 
+Overall, Gramophone provides a much-needed platform for indian farmers to compete with modern agricultural industries while maintaining sustainable practices to ensure a recurring production of produce.
+
+Based on the facts and figures published by the organisation, it can be said that their approach is not only pragmatic to the market they target but is also providing dividends to stake-holders as they have an astounding 67% rate for recurring clients.
+
+One statistic that we couldn't find on their impact report was however, the mean/median income of the participating farmers, as that would have played a major role in determining future scope for their work on our end.
+
+A few suggestions for future scope, disregarding that key-metric would be:
+
+1. Incorporate farms and agri-workers from neighbouring nations/regions as well.
+2. Assimilate people and stake-holders from different circles and steps of the agri-ecosphere to provide more options to participants in terms of resources and avenues.
+3. Expand to and collaborate with agricultural universities to provide two-way exchange of information and expertise and to further promote grassroot collaboration between the two parties.
+
+
+
+[^1]: https://gramophone.in/impact/?lang=en#dearflip-df_1075/7/
+[^2]: https://gramophone.in/impact/?lang=en#dearflip-df_1075/9/
+[^3]: https://gramophone.in/impact/?lang=en#dearflip-df_1075/14/
