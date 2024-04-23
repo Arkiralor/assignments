@@ -44,15 +44,15 @@ Ninjacart aims to mitigate this problem by acting as an intermediary between the
 
 - More than 1'400 tonnes of fresh produce moved per day and has doubled its volumes in the last 4 months, as of October 2019. [^10]
 - Helped farmers boost agricultural income by up to 20%. [^10]
-- Operates in 70 cities, with a network of more than 800,000 farmers and 100,000 retailers across business lines.[^11]
+- Operates in 70 cities, with a network of more than 800'000 farmers and 100'000 retailers across business lines.[^11]
 
 ## Afterword and Possible Future Scope
 
-It can be said that besides all agri-startups, ninjacart is a _jack-of-all-trades_ and is the one most poised to become *the* key player in their niche and indeed, the Indian market.
+It can be said that amongst all agri-startups, ninjacart is a _jack-of-all-trades_ and is the one most poised to become *the* key player in their niche and indeed, the Indian market.
 
 As they have also started investing in international firms and have started operations in the same; it can also be safely assumed that their business model, though a bit slow to mature, is quickly becoming long-term profitable and is, most importantly stable; something which a lot of startups neglect to enforce.
 
-All in all, Ninjacart seems to be a safe investment for agri-workers and clients alike to divulge their resources to as a _better_ for personal, economic and social growth.
+All in all, Ninjacart seems to be a safe investment for agri-workers and clients alike to divulge their resources to _better_ their personal, economic and social situation.
 
 
 [^1]: https://www.ninjacart.com/about-us/
